@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>bigtoast</groupId>
+  <artifactId>tfly-inventory-payment-api</artifactId>
+  <version>0.0.2</version>
+  <versioning>
+    <versions>
+      <version>0.0.2</version>
+    </versions>
+    <lastUpdated>20121117100922</lastUpdated>
+  </versioning>
+</metadata>
