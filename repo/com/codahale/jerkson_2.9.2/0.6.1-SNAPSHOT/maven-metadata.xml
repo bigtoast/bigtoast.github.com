@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.codahale</groupId>
+  <artifactId>jerkson_2.9.2</artifactId>
+  <version>0.6.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20130221.174456</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20130221174456</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.6.1-20130221.174456-1</value>
+        <updated>20130221174456</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.6.1-20130221.174456-1</value>
+        <updated>20130221174456</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>0.6.1-20130221.174456-1</value>
+        <updated>20130221174456</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

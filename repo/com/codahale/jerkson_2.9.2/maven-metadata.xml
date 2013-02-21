@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.codahale</groupId>
+  <artifactId>jerkson_2.9.2</artifactId>
+  <versioning>
+    <versions>
+      <version>0.6.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130221174456</lastUpdated>
+  </versioning>
+</metadata>
