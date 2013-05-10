@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.github.bigtoast</groupId>
+    <artifactId>client_2.9.2</artifactId>
+    <packaging>jar</packaging>
+    <description>client</description>
+    <version>0.2.2</version>
+    <name>client</name>
+    <organization>
+        <name>com.github.bigtoast</name>
+    </organization>
+    <dependencies>
+        <dependency>
+            <groupId>com.github.bigtoast</groupId>
+            <artifactId>rokprox_2.9.2</artifactId>
+            <version>0.2.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.scala-lang</groupId>
+            <artifactId>scala-library</artifactId>
+            <version>2.9.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.scala-sbt</groupId>
+            <artifactId>command</artifactId>
+            <version>0.12.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.scala-sbt</groupId>
+            <artifactId>task-system</artifactId>
+            <version>0.12.0</version>
+        </dependency>
+    </dependencies>
+    <repositories>
+        <repository>
+            <id>TypesafeRepository</id>
+            <name>Typesafe Repository</name>
+            <url>http://repo.typesafe.com/typesafe/releases/</url>
+            <layout>default</layout>
+        </repository>
+        <repository>
+            <id>TicketflyGitHubRepo</id>
+            <name>Ticketfly GitHub Repo</name>
+            <url>http://ticketfly.github.com/repo/</url>
+            <layout>default</layout>
+        </repository>
+    </repositories>
+</project>
