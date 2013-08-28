@@ -1,0 +1,14 @@
+com.github.bigtoast.jfly
+com.github.bigtoast.jfly.api
+com.github.bigtoast.jfly.api.event
+com.github.bigtoast.jfly.api.org
+com.github.bigtoast.jfly.api.purchase
+com.github.bigtoast.jfly.api.venue
+com.github.bigtoast.jfly.config
+com.github.bigtoast.jfly.internal.http
+com.github.bigtoast.jfly.internal.http.event
+com.github.bigtoast.jfly.internal.http.org
+com.github.bigtoast.jfly.internal.http.purchase
+com.github.bigtoast.jfly.internal.http.venue
+com.github.bigtoast.jfly.internal.json
+com.github.bigtoast.jfly.internal.util
